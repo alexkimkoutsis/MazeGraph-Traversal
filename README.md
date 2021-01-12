@@ -7,7 +7,7 @@ Visually demonstrates how each search algorithm works. Can also be used to show 
 generates the lowest cost path from one node to another in a graph.
 
 # Demo
-
-Insert gif here.
+This gif shows the maze being solved by a DFS, then a BFS, then by Dijkstra's algorithm.
+![MazeGraph Traversal Demo](demo/MazeGraph_demo.gif)
 
 Note: since this was a class project, code cannot be uploaded to Github or it would be an academic integrity violation.
